@@ -48,3 +48,7 @@ table {
   text-align: center;
   margin:auto;
 }
+
+.foto{
+  border-radius: 999px;
+}

@@ -1,0 +1,54 @@
+body {
+background-color:#7C3E66;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 20%;
+  border-color: white;
+}
+
+h1 {
+  color: #F2EBE9;
+  font-style: normal;
+  font-family: lucida console;
+}
+
+h3{
+  color: #F2EBE9;
+  font-style: normal;
+  font-family: arial;
+  text-align: center;
+}
+
+p {
+  color: #A5BECC;
+  font-style: normal;
+  font-family: optima;
+  text-align: justify;
+}
+
+li{
+  color: #243A73;
+  font-style: normal;
+  font-family: optima;
+  text-align: center;
+}
+
+dd {
+  color: #A5BECC;
+  font-style: normal;
+  font-family: optima;
+  text-align: center;
+}
+
+table {
+  text-align: center;
+  margin:auto;
+}
+
+.foto{
+  border-radius: 999px;
+}
